@@ -8,7 +8,7 @@ Whether you're trying to grow revenue, reduce operational costs, automate repeti
 
 **Here's how I can help:**
 
-- **Business intelligence** — Unify data from different sources (Excel, payment platforms, etc) to give you a clearer picture of your business.
+- **Business intelligence** — Unify data from different sources (POS, Excel, payment platforms, etc) to give you a clearer picture of your business.
   
 - **Data analytics** — Understand your customers, revenue streams, business performance and identify opportunities for improvement.
   
